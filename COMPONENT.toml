@@ -3,7 +3,7 @@ name = "SigmaOS-systemd-coredump"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "systemd-coredump component"
+description = "systemd coredump"
 upstream = []
 
 [contract]
